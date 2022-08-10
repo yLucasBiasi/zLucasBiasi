@@ -1,4 +1,4 @@
-## Olá Me chamo Lucas Biasi!
+## Olá me chamo Lucas Biasi!
 
 <div align="center">
   <a href="">

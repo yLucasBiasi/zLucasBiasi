@@ -1,7 +1,7 @@
 <h2> Sobre mim: </h2>
 <h3> Olá, me chamo Lucas Biasi!</h3>
-<p> Sou um desenvolvedor Front-end que busca sempre fazer códigos legíveis a outros desenvolvedores, com foco na criação de sites com interfaces limpas, modernas e acessíveis para todo tipo de usuário.
-Meus hobbies incluem jogos, música e tocar alguns instrumentos que gosto como saxophone e um bom e velho violão. Caso queira conversar comigo e falar sobre algo do tipo estou disponível em meu discord <a target="_blank" href="https://discordapp.com/users/343822945912619008"> “Olha o Biasi#0419” </a> ou pode me chamar em alguma rede social minha na aba de Contatos!
+<p> 
+Sou um profissional de desenvolvimento Front-end com experiência na área de segurança, atuando como membro da equipe de segurança Blue Team. Caso queira conversar comigo e falar sobre algo do tipo estou disponível em meu discord <a target="_blank" href="https://discordapp.com/users/343822945912619008"> “zLucasBiasi” </a> ou pode me chamar em alguma rede social minha na aba de Contatos!
 </p>
 
 <div style="display: inline_block"><br>

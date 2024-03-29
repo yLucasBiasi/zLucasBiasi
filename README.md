@@ -1,7 +1,7 @@
 <h2> Sobre mim: </h2>
 <h3> Olá, me chamo Lucas Biasi!</h3>
 <p> 
-Sou um profissional de desenvolvimento Front-end com experiência na área de segurança, atuando como membro da equipe de segurança Blue Team. Caso queira conversar comigo e falar sobre algo do tipo estou disponível em meu discord <a target="_blank" href="https://discordapp.com/users/343822945912619008"> “zLucasBiasi” </a> ou pode me chamar em alguma rede social minha na aba de Contatos!
+um pouco de tudo e um monte de nada
 </p>
 
 <div style="display: inline_block"><br>
